@@ -9,9 +9,9 @@ exports.run = {
          number: global.owner,
          about: 'Owner & Creator'
       }], m, {
-         org: 'Neoxr Network',
-         website: 'https://neoxr.my.id',
-         email: 'admin@neoxr.my.id'
+         org: 'My instagram',
+         website: 'https://instagram.com/anggatzi123',
+         email: 'wbot84199@gmail.com'
       })
    },
    error: false,
