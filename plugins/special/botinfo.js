@@ -21,7 +21,7 @@ let info = () => {
    return `This bot was created and developed with the purpose of *learning*.
    
 Source :
-- https://github.com/neoxr/neoxr-bot
+- https://instagram.com/anggatzi123
 
 65% of the data sent from this bot comes from Rest API: https://api.neoxr.my.id`
 }
