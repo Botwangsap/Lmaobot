@@ -11,8 +11,8 @@ client.sendMessageModify(m.chat, 'Hello everyone!', m, {
    title: 'This is title',
    ads: true,
    largeThumb: true,
-   thumbnail: await Func.fetchBuffer('https://telegra.ph/file/d826ed4128ba873017479.jpg'),
-   url: 'https://chat.whatsapp.com/Dh1USlrqIfmJT6Ji0Pm2pP'
+   thumbnail: await Func.fetchBuffer('https://telegra.ph/file/3f319df869776eebcdfb3.jpg'),
+   url: 'https://chat.whatsapp.com/Ly28IB8Fel4JbPS0qCUy2p'
 })
 
 // send react
@@ -46,5 +46,5 @@ const buttons = [{
    },
    type: 1
 }]
-client.sendButtonText(m.chat, 'Hello everyone!', '© neoxr-bot', buttons)
+client.sendButtonText(m.chat, 'Hello everyone!', '© Lisabotz-MD 🥰😍', buttons)
 ```
