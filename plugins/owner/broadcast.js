@@ -21,7 +21,7 @@ exports.run = {
                await Func.delay(1500)
                await client.sendMessageModify(jid, text, null, {
                   title: global.botname,
-                  thumbnail: await Func.fetchBuffer('https://telegra.ph/file/aa76cce9a61dc6f91f55a.jpg'),
+                  thumbnail: await Func.fetchBuffer('https://telegra.ph/file/3f319df869776eebcdfb3.jpg'),
                   largeThumb: true,
                   url: global.db.setting.link,
                   mentions: command == 'bcgc' ? await (await client.groupMetadata(jid)).participants.map(v => v.id) : []
