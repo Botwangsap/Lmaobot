@@ -11,7 +11,7 @@ client.sendMessageModify(m.chat, 'Hello everyone!', m, {
    title: 'This is title',
    ads: true,
    largeThumb: true,
-   thumbnail: await Func.fetchBuffer('https://telegra.ph/file/3f319df869776eebcdfb3.jpg'),
+   thumbnail: await Func.fetchBuffer('https://telegra.ph/file/f996d4e04e4258bd031b4.jpg'),
    url: 'https://chat.whatsapp.com/Ly28IB8Fel4JbPS0qCUy2p'
 })
 
