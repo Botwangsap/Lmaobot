@@ -136,7 +136,7 @@ module.exports = (m) => {
          lastReset: new Date * 1,
          msg: 'Hi +tag 🪸\nI am an automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.\n\n◦ *Database* : +db\n◦ *Library* : Baileys v+version\n◦ *My instagram* : https://instagram.com/anggatzi123\n◦ *Source* : https://instagram.com/anggatzi123\n\nIf you find an error or want to upgrade premium plan contact the owner.',
          menuStyle: 4,
-         cover: 'https://srv.neoxr.tk/files/Ff86r7.jpg',
+         cover: 'https://telegra.ph/file/f996d4e04e4258bd031b4.jpg',
          link: 'https://chat.whatsapp.com/Ly28IB8Fel4JbPS0qCUy2p'
       }
    }
